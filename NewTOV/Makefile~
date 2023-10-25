@@ -1,0 +1,5 @@
+CC = gcc
+CFLAGS = -O2 -march=native -fopenmp -Wall -Wno-unused-variable -std=gnu99
+
+INCLUDEDIRS=
+all: ..

@@ -1,0 +1,3 @@
+[submodule "OdieGM"]
+	path = OdieGM
+	url = https://github.com/GMBlackjack/OdieGM.git
